@@ -13,7 +13,7 @@ The data we have is not ideal, so it will need to be processed to fit the machin
 ![3d_scatter](/images/3d_scatter.png)
 
 ## Tradable Cryptocurrencies
-![tradable](/images/tradable.png)
+![tradable](/images/Tradable.png)
 
 ## Scatter Plot of Tradable Cryptocurrencies
 ![tradable_scatter](/images/tradable_scatter.png)
